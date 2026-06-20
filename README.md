@@ -19,9 +19,11 @@ A high-security, localized desktop utility designed to generate high-entropy, cr
 Password-Generator/
 │
 ├── password_generator.py  # Main Python source containing cryptographic generation logic
-├── .gitignore             # Standard Git configuration
 └── README.md              # Setup manual
 ```
+## 🗺️Visual
+<img width="371" height="372" alt="Screenshot 2026-06-13 161324" src="https://github.com/user-attachments/assets/34f514a8-a21d-4bed-8e02-edf47a6a8b9e" />
+
 ## 🗺️ Installation & Local Execution Roadmap
 ### 📋 Prerequisites
 •	Python 3.8 or higher must be installed.
@@ -34,7 +36,7 @@ git clone [https://github.com/your-username/Password-Generator.git](https://gith
 ```
 ### 2.	Navigate into the directory:
 ```Bash
-cd Password-Generator
+cd Password-Generator-App
 ```
 ### 3.	Launch the application:
 ```Bash
